@@ -26,9 +26,12 @@ body {
 }
 .titulo-principal{
     text-align: left;
-    width: 100%;
+    margin: 100%;
     font-size: 32px;
 }
  .titulo-principal span{
     color: var(--verde);
+ }
+ .botoes{ 
+    font-family: "Chakra Petch", sans-serif;
  }
